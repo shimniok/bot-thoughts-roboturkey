@@ -1,0 +1,6 @@
+eagle.epf
+*.[bs]#[0-9]
+*.lss
+*.gpi
+*.dri
+*.scr
