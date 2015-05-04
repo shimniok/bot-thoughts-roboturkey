@@ -1,0 +1,1 @@
+Inspired by RobotGrrl'''s RoboBird, I decided it would be fun to build an animatronic turkey for Thanksgiving and decorate the bird with my 2 year old daughter. The bird is made with a Parallax Propeller, 3 hobby servos, an LM386 audio amplifier, a feather boa, lots of craft sticks and hot glue, and other sundries.
