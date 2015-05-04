@@ -135,21 +135,21 @@ PUB Start | x, p, hpos
     elseif (p < 1001)
 
       if (p < 825)            ' rutabaga
-        rutabaga()
+        rutabaga
       elseif (p < 850)        ' oscar
-        oscar()
+        oscar
       elseif (p < 875)        ' gravy
-        gravy()
+        gravy
       elseif (p < 900)        ' gobble
-        gobble()
+        gobble
       elseif (p < 925)        ' gobble2
-        gobble2()
+        gobble2
       elseif (p < 950)        ' gobble3
-        gobble3()
+        gobble3
       elseif (p < 975)        ' stuffed
-        stuffed()
+        stuffed
       elseif (p < 1001)       ' happy
-        happy()
+        happy
 
     p := random * 10
     waitcnt(cnt+(wait+p)*ms) 
