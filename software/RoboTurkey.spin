@@ -43,12 +43,11 @@ VAR
 
   
 OBJ
-  servo : "Servo32v9"   ' Servo controller
-  wav   : "PlayWav"     ' Play wav sound effects  
-  'text  : "tv_text"
-  rand  : "RealRandom"
-  pc : "Simple_Serial"
-  num : "Numbers"
+  servo : "Servo32v9"      ' Servo controller
+  wav   : "PlayWav"        ' Play wav sound effects
+  rand  : "RealRandom"     ' random number generator
+  pc    : "Simple_Serial"  ' simple serial output for debugging
+  num   : "Numbers"
   
 PUB Start | x, p, hpos
 
