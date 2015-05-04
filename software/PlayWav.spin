@@ -19,7 +19,7 @@ OBJ
     'text : "vga_text"    'For NTSC TV Video: Comment out this line...
     'text : "tv_text"    'and un-comment this line  (need to change pin parameter for text.start(pin) command below too).
     sd  : "FSRW"
-    num : "numbers"
+    num : "Numbers"
 
 PUB Main
 
